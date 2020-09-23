@@ -1,0 +1,139 @@
+﻿  Emulator.cpp
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(548,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(549,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(550,29): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(551,26): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(578,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(579,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(580,30): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(581,26): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(605,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(606,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(607,30): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(623,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(624,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(644,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(645,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(663,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(664,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(682,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(683,13): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(748,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(847,70): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(888,70): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(929,64): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(970,64): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1012,64): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1053,64): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1094,64): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1113,13): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1124,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1125,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1126,31): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1127,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1144,13): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1155,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1156,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1157,32): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1158,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1182,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1183,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1184,30): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1202,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1203,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1223,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1224,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1244,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1245,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1252,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1253,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1270,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1271,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1534,23): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1546,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1547,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1556,23): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1568,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1569,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1631,23): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1643,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1644,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1670,23): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1682,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1683,16): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1729,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1730,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1745,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1746,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1771,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1772,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1841,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1842,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1843,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1904,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1905,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1906,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1923,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1924,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1933,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1934,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1943,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1944,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1962,23): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1973,23): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(1994,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2010,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2224,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2225,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2226,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2232,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2233,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2234,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2240,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2241,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2242,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2248,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2249,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2250,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2256,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2257,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2258,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2264,28): warning C4244:  '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2265,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(2266,15): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3030,9): warning C4244:  'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3039,64): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3060,65): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3211,75): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3219,75): warning C4554:  '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3384,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3398,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3467,19): warning C4244:  '=': conversion from '_TCHAR' to 'char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3476,20): warning C4244:  '=': conversion from '_TCHAR' to 'char', possible loss of data
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3555,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3561,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3563,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3589,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  see declaration of 'sprintf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3628,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  see declaration of 'sprintf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3638,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3642,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3683,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3685,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3710,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  see declaration of 'sprintf'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3754,1): warning C4996:  'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message :  see declaration of 'inet_addr'
+F:\UNI\CaNS\Emulator and Report\Emulator\Emulator\Emulator.cpp(3759,1): warning C4996:  'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message :  see declaration of 'inet_addr'
+  Emulator.vcxproj -> F:\UNI\CaNS\Emulator and Report\Emulator\Debug\Emulator.exe
